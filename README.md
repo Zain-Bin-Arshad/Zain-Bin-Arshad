@@ -12,69 +12,27 @@
 
  I am Zain Bin Arshad a **Full-stack Web Developer** from Pakistan 🇵🇰
 My day-to-day work revolves around coding awesome stuff, PR reviews, technical deep dives, meetings, squishing 💪 some 🐞...
-## 🛠️ Tools and technologies
+## 🛠️ Tools & Technologies
 Some of the major tools that I have worked on and/or am currently working on:
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h3>Programming Languages</h3>
-    <table>
-      <tr>
-        <td>
-          <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-        </td>
-        <td>
-          <img alt="Ruby" title="Ruby" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png">
-        </td>
-        <td>
-          <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-        </td>
-        <td>
-          <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-        </td>
-        <td>
-          <img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">
-        </td>
-      </tr>
-    </table>
-  </div>
-  <div style="flex: 1;">
-    <h3>Libraries and Frameworks</h3>
-    <table>
-      <tr>
-        <td>
-          <img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">
-        </td>
-        <td>
-          <img title="Rails" alt="Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rails/rails.png">
-        </td>
-        <td>
-          <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
-        </td>
-        <td>
-          <img title="ReactJS" alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-        </td>
-        <td>
-          <img title="AngularJS" alt="AngularJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
-        </td>
-        <td>
-          <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">
-        </td>
-        <td>
-          <img title="JQuery" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
-        </td>
-        <td>
-          <img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-        </td>
-        <td>
-          <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
+**Programming Languages**
+
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="40px">
+|--|--|--|--|--|
+
+**Libraries & Frameworks**
+
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/rails/rails.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="40px">
+|--|--|--|--|--|--|--|--|--|
+
+**Infrastructure & Databases**
+
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">|<img title="Postgres" alt="Postgres" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
+|--|--|--|--|--|--|--|
+
+## 📈 My Stats
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sap&theme=github_dark">|<a href="https://stackoverflow.com/users/story/11143190"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11143190&theme=dark" height="250"></a>
+|--|--|
+
+
+
