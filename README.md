@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![Twitter: Zain](https://img.shields.io/twitter/follow/zain_ki_awaz?style=social)](https://twitter.com/zain_ki_awaz)
+[![Linkedin: Zain](https://img.shields.io/badge/-Zain-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zain-arshad-836b23179/)
+[![Gmail: Zain](https://img.shields.io/badge/-Gmail-yellow?logo=gmail)](mailto:ch.zainbinarshad@gmail.com)
+[![GitHub stars](https://img.shields.io/github/stars/zain-bin-arshad?label=Stars&style=social)](https://github.com/zain-bin-arshad) 
+[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/11143190?color=orange&label=Reputation&logo=stackoverflow)](https://stackoverflow.com/users/11143190/zain-arshad)
+
 
 <!--
 **Zain-Bin-Arshad/Zain-Bin-Arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
