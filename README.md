@@ -12,7 +12,7 @@
 
 I am Zain Bin Arshad a **Full-stack Web Developer** from Pakistan 🇵🇰
 My day-to-day work revolves around coding awesome stuff, PR reviews, technical deep dives, meetings, squishing 💪 some 🐞...
-## 🛠️ Tools & Technologies
+## Tools & Technologies 🛠️
 Some of the major tools that I have worked on and/or am currently working on:
 
 **Programming Languages**
@@ -30,7 +30,7 @@ Some of the major tools that I have worked on and/or am currently working on:
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">|<img title="Postgres" alt="Postgres" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
 |--|--|--|--|--|--|--|
 
-## 🤩 Fun Stuff 
+## Fun Stuff 🤩
 ☕️ I have never had coffee in my life<br>
 🏆 Got [3rd position](https://lahore.comsats.edu.pk/cs/fyp/position.aspx#:~:text=FA16%2DBCS%2D204-,Zain%20bin%20Arshad,-FA16%2DBCS%2D032) in my Final Year Project<br>
 💻 I am a part of a team that provides [free coding courses](http://www.isdp.info/)<br>
@@ -38,7 +38,7 @@ Some of the major tools that I have worked on and/or am currently working on:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I enjoy connecting with people, so if you believe I can be of assistance, please feel free to reach out to me
 
 
-## 📈 Stats
+## Stats 📈
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sap&theme=github_dark">|<a href="https://stackoverflow.com/users/story/11143190"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11143190&theme=dark" height="250"></a>
 |--|--|
 
