@@ -35,7 +35,7 @@ Some of the major tools that I have worked on and/or am currently working on:
 🏆 Got [3rd position](https://lahore.comsats.edu.pk/cs/fyp/position.aspx#:~:text=FA16%2DBCS%2D204-,Zain%20bin%20Arshad,-FA16%2DBCS%2D032) in my Final Year Project<br>
 💻 I am a part of a team that provides [free coding courses](http://www.isdp.info/)<br>
 🌎 I love to explore different cultures<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I enjoy connecting with people, so if you believe I can be of assistance, please feel free to reach out to me
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="17"> I enjoy connecting with people, so if you believe I can be of assistance, please feel free to reach out to me
 
 
 ## Stats 📈
