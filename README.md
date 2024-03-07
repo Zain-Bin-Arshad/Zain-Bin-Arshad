@@ -39,7 +39,7 @@ Some of the major tools that I have worked on and/or am currently working on:
 
 
 ## Stats 📈
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-sap&theme=github_dark">|<a href="https://stackoverflow.com/users/story/11143190"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11143190&theme=dark" height="250"></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zain-Bin-Arshad&theme=github_dark">|<a href="https://stackoverflow.com/users/story/11143190"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11143190&theme=dark" height="250"></a>
 |--|--|
 
 
