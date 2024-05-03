@@ -10,10 +10,10 @@
   </div>
 </p>
 
-I am Zain Bin Arshad a **Full-stack Web Developer** from Pakistan 🇵🇰
+I am Zain Arshad a **Senior Software Engineer** from Pakistan 🇵🇰
 My day-to-day work revolves around coding awesome stuff, PR reviews, technical deep dives, meetings, squishing 💪 some 🐞...
 ## Tools & Technologies 🛠️
-Some of the major tools that I have worked on and/or am currently working on:
+Some of the major tools that I have worked on and currently working on:
 
 **Programming Languages**
 
@@ -41,8 +41,4 @@ Some of the major tools that I have worked on and/or am currently working on:
 ## Stats 📈
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zain-Bin-Arshad&theme=github_dark">|<a href="https://stackoverflow.com/users/story/11143190"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11143190&theme=dark" height="250"></a>
 |--|--|
-
-
-
-
-
+![](https://hit.yhype.me/github/profile?user_id=49767636)
